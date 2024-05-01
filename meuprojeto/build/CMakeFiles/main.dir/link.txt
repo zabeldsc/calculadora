@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/src/teste.cpp.o -o bin/main  -Wl,-rpath,/home/isabel/meuprojeto/build libcalc.so 

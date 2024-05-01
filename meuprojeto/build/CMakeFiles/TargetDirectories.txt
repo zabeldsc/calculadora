@@ -1,0 +1,4 @@
+/home/isabel/meuprojeto/build/CMakeFiles/calc.dir
+/home/isabel/meuprojeto/build/CMakeFiles/main.dir
+/home/isabel/meuprojeto/build/CMakeFiles/edit_cache.dir
+/home/isabel/meuprojeto/build/CMakeFiles/rebuild_cache.dir
